@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nelson Quesado, a brazilian civil engineer.
-- 👀 I’m interested in construction, transportation engineering and statistics.
+- 👋 Hi, I’m Nelson Quesado, a brazilian engineer.
+- 👀 I’m interested in transportation engineering and statistics.
 - 🌱 I’m currently learning R and data visualization.
 - 📫 How to reach me: nquesado@gmail.com
