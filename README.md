@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nelson Quesado, a brazilian engineer and Ph.D. candidate.
 - 👀 I’m interested in transportation engineering and statistics.
-- 🌱 I’m currently learning R and data visualization.
+- 🌱 I’m currently learning R and data science.
 - 🚌 I'm the maintaner of [GTFSwizard](https://opatp.github.io/GTFSwizard/), an R package for exploring and editing GTFS data.
 - 📫 You can reach me at nquesado@gmail.com
