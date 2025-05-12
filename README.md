@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nelson Quesado, a brazilian engineer with a doctorate in transportation engineering.
-- 👨‍🏫 I teach at [Universidade Federal do Ceará](www.ufc.br).
+- 👨‍🏫 I teach at [Universidade Federal do Ceará](http://www.ufc.br).
 - 👀 I’m interested in transportation engineering and statistics.
 - 🌱 I’m currently learning R and data science.
 - 🚌 I'm the maintaner of [GTFSwizard](https://opatp.github.io/GTFSwizard/), an R package for exploring and editing GTFS data.
