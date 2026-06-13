@@ -2,5 +2,5 @@
 - 👨‍🏫 I teach at [Universidade Federal do Ceará](https://www.ufc.br/).
 - 👀 I’m interested in transportation engineering and statistics.
 - 🌱 I’m currently learning R and data science.
-- 🚌 I'm the maintaner of [GTFSwizard](https://opatp.github.io/GTFSwizard/) - an R package for exploring and editing GTFS data - and [okcolors](https://github.com/nelsonquesado/okcolors) - a set of color palettes inspired by OK Go music videos for 'ggplot2' in R. I have also authored [pavdata](https://cdavidrmelo.github.io/pavdata/) package for managing transportation infrastructure data.
+- 🚌 I'm the maintaner of [GTFSwizard](https://opatp.github.io/GTFSwizard/) - an R package for exploring and editing GTFS data - and [okcolors](https://github.com/nelsonquesado/okcolors) - a set of color palettes inspired by OK Go music videos for 'ggplot2' in R. I have also authored [pavdata](https://cdavidrmelo.github.io/pavdata/) package for managing transportation infrastructure data in R.
 - 📫 You can reach me at nquesado@gmail.com
